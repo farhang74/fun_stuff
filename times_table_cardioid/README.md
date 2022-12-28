@@ -8,7 +8,7 @@ you can plot one frame based on one multiplication factor
 plot_one_frame(40)
 `
 
-or you can plot an infinite animation
+or you can plot an infinite animation with different multiplication factors
 
 
 
