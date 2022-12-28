@@ -1,4 +1,4 @@
-fun_stuff
+## fun_stuff
 
 A series of fun scripts regarding fun math equations written in python.
 
