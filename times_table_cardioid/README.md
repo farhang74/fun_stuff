@@ -1,4 +1,4 @@
-This script is a way to produce the shape of the main crdioid fount in Mandlbrot set an many many other places in math and nature (coffee cups, apple's cross section, plant leaves and ....)
+This script is a way to produce the shape of the main cardioid found in Mandlbrot set an many many other places in math and nature (coffee cups, apple's cross section, plant leaves and ....)
 
 The code was inspired by this youtube video https://www.youtube.com/watch?v=qhbuKbxJsk8
 
