@@ -11,9 +11,7 @@ kernel = np.array([[1,1,1],
                     [1,1,1]])
 
 fig, ax = plt.subplots(figsize=[8,8])
-# d = ax.scatter(center_point[0], center_point[1])
 ax.axis('off')
-ax.imshow(grid)
 
 
 frames = 1
