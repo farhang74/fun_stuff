@@ -9,3 +9,4 @@ a grid of random 0 1 cells is generated and this grid updates based on these rul
 
 more info at: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
 
+![conway](https://user-images.githubusercontent.com/76580757/210061201-b963d0ae-f5b4-4e88-a8ff-0301e7375846.gif)
