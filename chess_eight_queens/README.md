@@ -25,6 +25,7 @@ an old script probably the worst code ever :(
 * aweful variable names (a, t, n, sth() )
 * no readablity
 * global variables in each function
+* lots of for and while loops
 
 BUT WORKS!
 
